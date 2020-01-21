@@ -1,2 +1,2 @@
-# uxuirish.github.io
+# uxuirish
 Portfolio Testing Zone
